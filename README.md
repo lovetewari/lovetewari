@@ -1,7 +1,12 @@
-Hi 👋 My name is Love Tewari
-============================
+<h1 align="center">Hi I'm Love Tewari 
+  
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Love" width="30px">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;A+CSE+Undergrad;Small+time+game+creator.)](https://git.io/typing-svg)
+</h1>
+  
 
-CSE Undergrad
+
 --------------------
 
 Secured 299 State Rank in Smartkid General Knowledge Olympiad'15, IELTS Speaking 7.0 Band CEFR LEVEL: B2.
