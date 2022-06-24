@@ -63,13 +63,15 @@ src="https://img.shields.io/twitch/status/lovetewari?logo=twitchsx&style=for-the
 
 <a href="https://github.com/lovetewari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovetewari&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/LoveTewari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 <hr>
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/LoveTewari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
