@@ -1,16 +1,16 @@
 Hi 👋 My name is Love Tewari
 ============================
 
-CSE Undergrad at SRM
+CSE Undergrad
 --------------------
 
 Secured 299 State Rank in Smartkid General Knowledge Olympiad'15, IELTS Speaking 7.0 Band CEFR LEVEL: B2.
 
 * 🌍  I'm based in Lucknow, Uttar Pradesh
 * ✉️  You can contact me at [mailto:love.tewari@rediffmail.com](mailto:mailto:love.tewari@rediffmail.com)
-* 🚀  I'm currently working on [Block Chain](http:// thinkcrypto.in)
-* 🧠  I'm learning Blockchain and information technology.
-* 🤝  I'm open to collaborating on Blockchain
+* 🚀  I'm currently working on (http://thinkcrypto.in/)
+* 🧠  I'm learning Blockchain and Android & IOS Development
+* 🤝  I'm open to collaborating on Blockchain
 
 <a href="https://www.twitter.com/LoveTewarii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LoveTewarii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
