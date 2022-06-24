@@ -66,3 +66,10 @@ src="https://img.shields.io/twitch/status/lovetewari?logo=twitchsx&style=for-the
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/LoveTewari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
