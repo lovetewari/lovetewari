@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/LoveTewarii?logo=twitter&style=for-th
 src="https://img.shields.io/github/followers/lovetewari?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitch.tv/lovetewari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/lovetewari?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
 
-### Skills
+### My Tech Stack
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,6 +42,8 @@ src="https://img.shields.io/twitch/status/lovetewari?logo=twitchsx&style=for-the
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
                                 
 </p>
