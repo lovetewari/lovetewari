@@ -14,8 +14,8 @@ Secured 299 State Rank in Smartkid General Knowledge Olympiad'15, IELTS Speaking
 * 🌍  I'm based in Lucknow, Uttar Pradesh
 * ✉️  You can contact me at [mailto:love.tewari@rediffmail.com](mailto:mailto:love.tewari@rediffmail.com)
 * 🚀  I'm currently working on (http://thinkcrypto.in/)
-* 🧠  I'm learning Blockchain and Android & IOS Development
-* 🤝  I'm open to collaborating on Blockchain
+* 🧠  I'm Currently learning Blockchain, WEB Development, Data Structure & Algorithm And Android & IOS Development
+* 🤝  I'm open to collaborating on Blockchain and Open Source Projects On Web Development
 
 <a href="https://www.twitter.com/LoveTewarii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LoveTewarii?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
@@ -40,6 +40,8 @@ src="https://img.shields.io/twitch/status/lovetewari?logo=twitchsx&style=for-the
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### Socials
