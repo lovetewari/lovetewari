@@ -13,7 +13,7 @@ Secured 299 State Rank in Smartkid General Knowledge Olympiad'15, IELTS Speaking
 
 * 🌍  I'm based in Lucknow, Uttar Pradesh
 * ✉️  You can contact me at [mailto:love.tewari@rediffmail.com](mailto:mailto:love.tewari@rediffmail.com)
-* 🚀  I'm currently working on (http://thinkcrypto.in/) or (https://thinkcrpto.wixsite.com/mysite)
+* 🚀  Building  (http://thinkcrypto.in/) or (https://thinkcrpto.wixsite.com/mysite)
 * 🧠  I'm Currently learning Blockchain, WEB Development, Data Structure & Algorithm And Android & IOS Development
 * 🤝  I'm open to collaborating on Blockchain and Open Source Projects On Web Development
 
